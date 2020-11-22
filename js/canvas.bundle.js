@@ -124,7 +124,7 @@ var canvas = document.querySelector('canvas');
 var c = canvas.getContext('2d');
 canvas.width = innerWidth;
 canvas.height = innerHeight;
-var colors = ['#46cef0', '#62cbe0'];
+var colors = ['#1180b0', '#15a1d4'];
 var ticker = 0;
 var spawnRate = 1; // Event Listeners
 
